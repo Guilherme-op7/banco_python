@@ -78,7 +78,7 @@ pip install mysql-connector-python
 
 
 
-python nome_do_arquivo.py
+python interface_times.py
 
 
 ---
